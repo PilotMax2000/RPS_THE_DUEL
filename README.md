@@ -19,3 +19,6 @@ Just follow it and all the triggered events and you will see, how everything wor
 <b>Prefered screen ratio/resolution</b> => 16:9/FullHD
 
 <b>Used Unity version:</b> 2019.3.10
+
+<i>All used graphics (UI & Skyboxes), VFX, SFX, 3D models and textures were taken from open sources or were bought.
+All scripts (excepts those from folder "3d party library" and LazyValue.cs) were created by myself.</i>
